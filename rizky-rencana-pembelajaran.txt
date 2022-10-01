@@ -1,0 +1,4 @@
+Rencana Pembelajaran
+- Menamatkan pembelajaran php, javascript
+- Menamatkan pembelajaran data analis
+- Belajar Kotlink untuk membuat aplikasi android
