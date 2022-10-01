@@ -3,5 +3,7 @@ Rencana Pembelajaran
 - Menamatkan pembelajaran data analis
   - Belajar 5 hari seminggu
   - Belajar sql di google cloud
+  - Belajar Mencari data pihak ke tiga
 - Melanjutkan pembelajaran bahasa inggris
-- Belajar Kotlink untuk membuat aplikasi android
+  - Belajar speaking
+
