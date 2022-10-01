@@ -1,4 +1,6 @@
 Rencana Pembelajaran
 - Menamatkan pembelajaran php, javascript
 - Menamatkan pembelajaran data analis
+  - Belajar 5 hari seminggu
+  - Belajar sql di google cloud
 - Belajar Kotlink untuk membuat aplikasi android
